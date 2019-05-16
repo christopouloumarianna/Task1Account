@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\task1Account\task1Account\bin\Debug\netcoreapp2.1\task1Account.deps.json
+C:\Users\Admin\source\repos\task1Account\task1Account\bin\Debug\netcoreapp2.1\task1Account.runtimeconfig.json
+C:\Users\Admin\source\repos\task1Account\task1Account\bin\Debug\netcoreapp2.1\task1Account.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\task1Account\task1Account\bin\Debug\netcoreapp2.1\task1Account.dll
+C:\Users\Admin\source\repos\task1Account\task1Account\bin\Debug\netcoreapp2.1\task1Account.pdb
+C:\Users\Admin\source\repos\task1Account\task1Account\obj\Debug\netcoreapp2.1\task1Account.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\task1Account\task1Account\obj\Debug\netcoreapp2.1\task1Account.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\task1Account\task1Account\obj\Debug\netcoreapp2.1\task1Account.AssemblyInfo.cs
+C:\Users\Admin\source\repos\task1Account\task1Account\obj\Debug\netcoreapp2.1\task1Account.dll
+C:\Users\Admin\source\repos\task1Account\task1Account\obj\Debug\netcoreapp2.1\task1Account.pdb
